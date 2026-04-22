@@ -11,3 +11,4 @@ phases:
       - echo Building static website files
 artifacts:
   files:
+-'**/*'
